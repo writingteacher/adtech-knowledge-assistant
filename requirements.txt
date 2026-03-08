@@ -1,0 +1,7 @@
+flask
+gunicorn
+openai
+pinecone
+python-dotenv
+requests
+beautifulsoup4
